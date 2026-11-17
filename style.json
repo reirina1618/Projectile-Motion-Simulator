@@ -1,0 +1,45 @@
+{
+    "button":{
+        "colours":{
+            "normal_border": "Black",
+            "normal_bg": "rgb(255,255,255)",
+            "normal_text": "Black"
+        }
+    },
+
+    "misc":
+         {
+             "shape": "rounded_rectangle",
+             "shape_corner_radius": "30",
+             "border_width": "2"
+         },
+
+    "@input":{
+        "colours":{
+            "normal_border": "#000000",
+            "dark_bg": "#FFFFFF",
+            "normal_text": "#000000",
+            "hovered_bg": "#FFFFFF",
+            "active_bg": "#FFFFFF",
+            "text_cursor": "Black",
+            "selected_text": "#FFFFFF",
+            "selected_bg": "#000000"
+        }
+    },
+
+    "window":{
+        "colours":{
+            "normal_border": "#000000",
+            "dark_bg": "#FFFFFF"
+        }
+    },
+    "text_box":{
+        "colours":{
+            "normal_border": "#000000",
+            "dark_bg": "#FFFFFF",
+            "normal_text": "#000000",
+            "selected_text": "#FFFFFF",
+            "selected_bg": "#000000"
+        }
+    }
+}
